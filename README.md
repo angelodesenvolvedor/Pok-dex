@@ -19,8 +19,8 @@ Funcionalidades
 
 ## 👷 Autor
 
-*  Nome do dev - Função realizada - angelo
-*  Angelo Desenvolvedor - Frontend do projeto - angelodesenvolvedor
+*  Nome do dev - angelo
+*  Angelo Desenvolvedor - Frontend Developer - @angelodesenvolvedor
 
 ## 📄 Licença
 Esse projeto está sob a licença Apache-2.0 license - acesse os detalhes https://github.com/angelodesenvolvedor/Pokedex/blob/main/LICENSE
