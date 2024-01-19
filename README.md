@@ -23,7 +23,7 @@ Funcionalidades
 *  Angelo Desenvolvedor - Frontend do projeto - angelodesenvolvedor
 
 ## 📄 Licença
-Esse projeto está sob a licença Apache-2.0 license - acesse os detalhes LICENSE.md.
+Esse projeto está sob a licença Apache-2.0 license - acesse os detalhes Apache-2.0 license.md.
 
 ## 💡 Expressões de gratidão
 * Um agradecimento publicamente.
