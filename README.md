@@ -23,7 +23,7 @@ Funcionalidades
 *  Angelo Desenvolvedor - Frontend do projeto - angelodesenvolvedor
 
 ## 📄 Licença
-Esse projeto está sob a licença Apache-2.0 license - acesse os detalhes https://github.com/angelodesenvolvedor/Pokedex/blob/main/LICENSE.md
+Esse projeto está sob a licença Apache-2.0 license - acesse os detalhes https://github.com/angelodesenvolvedor/Pokedex/blob/main/LICENSE
 
 ## 💡 Expressões de gratidão
 * Um agradecimento publicamente.
