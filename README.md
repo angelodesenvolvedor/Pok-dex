@@ -23,8 +23,5 @@ Funcionalidades
 *  Angelo Desenvolvedor - Frontend Developer - @angelodesenvolvedor
 
 ## 📄 Licença
-Esse projeto está sob a licença Apache-2.0 license - acesse os detalhes https://github.com/angelodesenvolvedor/Pokedex/blob/main/LICENSE
+Este projeto está sob a licença Apache-2.0 license - acesse os detalhes no arquivo LICENSE.md.
 
-## 💡 Expressões de gratidão
-* Um agradecimento publicamente.
-*  Meu linkedin: https://www.linkedin.com/in/angelosilvanno/
