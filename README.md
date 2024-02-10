@@ -19,7 +19,7 @@ Funcionalidades
 
 ## 👷 Autor
 
-* Nome do dev: Angelo - Desenvolvedor Frontend - @angelo_desenvolvedor
+* Nome do dev: Angelo - Desenvolvedor Frontend - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 * Este projeto está sob a licença Apache-2.0 license - acesse os detalhes no arquivo LICENSE.md.
