@@ -22,5 +22,5 @@ Funcionalidades
 * Nome do dev: Angelo - Desenvolvedor Frontend - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
-* Este projeto está sob a licença Apache-2.0 license - acesse os detalhes no arquivo [LICENSE.md]()
+* Este projeto está sob a licença Apache-2.0 license - acesse os detalhes no arquivo [LICENSE.md](https://github.com/angelodesenvolvedor/Pokedex?tab=Apache-2.0-1-ov-file)
 
